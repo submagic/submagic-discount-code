@@ -23,7 +23,7 @@ Here are the steps to follow to access the payment page and activate your discou
 
 Submagic offers **3 different plans**: Starter, Professional and Business.
 
-![Texte alternatif](./submagic-pricing.png)
+[![Texte alternatif](./submagic-pricing.png)](https://www.submagic.co/?fpr=ma10)
 
 ### Submagic Starter
 
