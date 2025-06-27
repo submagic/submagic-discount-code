@@ -1,4 +1,4 @@
-# Best Submagic promo code valid in 2025
+# Submagic Promo Code ▶ Get 10% Discount with "MA10"
 
 Submagic is currently **the best subtitling SaaS available on the market**. Unfortunately, it's not free: you'll need to subscribe to this service to use it. The good news is that we're explaining here **how to save as much as possible on your Submagic subscription price**. Let's go!
 
