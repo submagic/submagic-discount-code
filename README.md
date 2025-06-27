@@ -6,6 +6,8 @@ Submagic is currently **the best subtitling SaaS available on the market**. Unfo
 
 The **MA10 code** allows you to get **10% off for life on Submagic**. It's the best promotional code currently valid. No need to look elsewhere, you won't find better!
 
+[▶ Apply the promo code](https://www.submagic.co/?fpr=ma10)
+
 Know that **this coupon can be combined with the annual discount** to get up to 50% off.
 
 ## How and Where to Apply This Promotional Code?
@@ -14,7 +16,7 @@ The MA10 promotional code activation happens **during payment**.
 
 Here are the steps to follow to access the payment page and activate your discount:
 
-1. Create an account on submagic.co
+1. [Create an account on submagic.co](https://www.submagic.co/?fpr=ma10)
 2. Choose the plan that meets your needs
 3. Select annual payment for an additional discount
 4. During payment, enter the MA10 code in the designated field.
@@ -34,6 +36,8 @@ This first plan allows you to **subtitle 15 videos per month**. They can last up
 | Price without promo code | $19/month | $12/month |
 | Price with MA10 code | $18.1/month | $10.8/month |
 
+[▶ Apply the promo code](https://www.submagic.co/?fpr=ma10)
+
 ### Submagic Professional
 
 The Professional plan allows you to **subtitle 40 videos per month** (up to 5 minutes per video). It also provides access to **additional features** like automatic silence removal, audio enhancement, and subtitle translation.
@@ -43,6 +47,8 @@ The Professional plan allows you to **subtitle 40 videos per month** (up to 5 mi
 | Price without promo code | $39/month | $23/month |
 | Price with MA10 code | $35.1/month | $20.7/month |
 
+[▶ Apply the promo code](https://www.submagic.co/?fpr=ma10)
+
 ### Submagic Business
 
 With Submagic Business, you can edit **100 videos per month** (30 minutes max per video). This plan will also allow you to create custom templates and export your videos in 4K/60 FPS for superior quality.
@@ -51,6 +57,8 @@ With Submagic Business, you can edit **100 videos per month** (30 minutes max pe
 |--------------|---------|--------|
 | Price without promo code | $69/month | $41/month |
 | Price with MA10 code | $62.1/month | $36.9/month |
+
+[▶ Apply the promo code](https://www.submagic.co/?fpr=ma10)
 
 Submagic now has an "Enterprise" plan for individuals and organizations with greater needs.
 
