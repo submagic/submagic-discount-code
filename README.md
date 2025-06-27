@@ -23,6 +23,8 @@ Here are the steps to follow to access the payment page and activate your discou
 
 Submagic offers **3 different plans**: Starter, Professional and Business.
 
+![Texte alternatif](./submagic-pricing.png)
+
 ### Submagic Starter
 
 This first plan allows you to **subtitle 15 videos per month**. They can last up to 2 minutes. Result: you'll get more dynamic videos, without watermark, with the ability to add b-rolls and audio.
