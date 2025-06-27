@@ -6,7 +6,7 @@ Submagic is currently **the best subtitling SaaS available on the market**. Unfo
 
 The **MA10 code** allows you to get **10% off for life on Submagic**.
 
-[![Discount code Submagic](./submagic-promo-code.png)](https://www.submagic.co/?fpr=ma10)
+[![Coupon code Submagic](./submagic-promo-code.png)](https://www.submagic.co/?fpr=ma10)
 
 It's the best promotional code currently valid. No need to look elsewhere, you won't find better!
 
